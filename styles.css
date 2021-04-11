@@ -1,0 +1,51 @@
+    body {
+        background-image: url(https://i.pinimg.com/originals/b4/88/aa/b488aa1fa1c046b174fe962b12615de4.jpg);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        background-color: grey;
+        min-height: 400px;
+        margin-bottom: 100px;
+        clear: both;
+    }
+   
+    nav .navbar-nav li a{
+        color: white !important;
+        }
+        
+    h2 {
+            color: black;
+        
+        }
+    
+    p {
+            color:black;
+        }
+    .navbar-brand {
+            color: black !important;
+        }
+    .navbar-brand:hover, .navbar-brand:focus {
+            color: black  !important;
+            }
+    .footer {
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            height: 60px;
+            line-height: 60px;
+            background-color: #2aeeb3;
+            display: table;
+            text-align: center;
+            margin-left: auto;
+            margin-right: auto;
+    }
+    
+     
+      .jee {
+        background-color: rgb(22, 228, 159);
+ 
+  
+  
+      }
+    
